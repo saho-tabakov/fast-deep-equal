@@ -63,8 +63,4 @@ yarn.lock
 
 .DS_Store
 
-# generated files
-index.js
-react.js
-
 .idea
