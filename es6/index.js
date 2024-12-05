@@ -2,10 +2,6 @@
 
 // do not edit .js files directly - edit src/index.jst
 
-
-  var envHasBigInt64Array = typeof BigInt64Array !== 'undefined';
-
-
 module.exports = function equal(a, b) {
   if (a === b) return true;
 

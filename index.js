@@ -2,8 +2,6 @@
 
 // do not edit .js files directly - edit src/index.jst
 
-
-
 module.exports = function equal(a, b) {
   if (a === b) return true;
 
